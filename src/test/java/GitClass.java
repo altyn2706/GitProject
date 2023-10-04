@@ -1,6 +1,6 @@
 public class GitClass {
 
-    public static void main(String[] args) {
-        System.out.println("Hi there! Let's do practice with GitHub");
-    }
+    ////leaving comment
+    //comment#2
+
 }
