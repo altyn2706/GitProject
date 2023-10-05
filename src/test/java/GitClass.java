@@ -7,6 +7,7 @@ public class GitClass {
    //one more comment
     //one one one
     //message#5
+    //message#6
 
 
 }
